@@ -1,5 +1,6 @@
 Youtube
 =========
+- [youtube blue](https://android-apk.org/com.bvanced.android.youtube/40046501-youtube-blue/)
 
 ![Travis Youtube Build](https://api.travis-ci.org/alaouy/Youtube.svg?branch=master) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/alaouym)
 
